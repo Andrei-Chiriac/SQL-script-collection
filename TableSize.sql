@@ -1,3 +1,5 @@
+--https://stackoverflow.com/questions/7892334/get-size-of-all-tables-in-database
+
 SELECT 
     t.NAME AS TableName,
     s.Name AS SchemaName,
